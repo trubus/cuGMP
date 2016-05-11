@@ -237,8 +237,9 @@ void PrintUsageAndExit(void)
 	printf("Usage: TestApp.exe operation iterations bit_size [shift_bits]\n");
 	printf("Example: TestApp.exe addition 1 128\n");
 	printf("Example: TestApp.exe bit_shift_left 1 128 16\n");
-	exit(EXIT_FAILURE);
 #endif
+
+	exit(EXIT_FAILURE);
 }
 
 void PrintHeader(void)
