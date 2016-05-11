@@ -213,3 +213,4 @@ ModelManifest.xml
 /cuGMP/*.o
 /cuGMP/mpz/*.o
 /cuGMP/kernels/*.o
+/mpir-2.7.2
