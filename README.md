@@ -21,4 +21,5 @@ Now you should be able to start using cuGMP.sln
 - Open makefile and check all include paths (primarily CCCUDAINCL variable)
 
 **make** builds cuGMP library and TestApp
+
 **make cuGMP.a** builds only cuGMP library
