@@ -12,7 +12,7 @@ Concole application to make measurements comparing GMP and cuGMP performance.
 - Extract MPIR to repository directory (or anywhere else, but then edit paths in TestApp project properties - Additional Library Directories and Additional Include Directories accordingly)
 - In MPIR directory, open build.vc12\mpir.sln (for VS2013) and build lib\_mpir\_cxx and lib\_mpir\_gc in your desired configuration (or use batch build and build debug and release configurations)
 
-Now you should be able to start using cuGMP.sln
+Now you should be able to start using cuGMP.sln (recommended project configuration - x64)
 
 ### Getting started on Linux with Makefile
 
