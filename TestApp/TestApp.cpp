@@ -9,8 +9,8 @@
 #include <cstring>
 #endif
 
-#define BULK
-//#define CMD
+//#define BULK
+#define CMD
 //#define DEVELOPMENT
 
 #ifndef _WIN32
